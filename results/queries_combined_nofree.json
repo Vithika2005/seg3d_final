@@ -1,0 +1,79 @@
+{
+  "scorer": "combined",
+  "free_segments": false,
+  "depth": "relative",
+  "overall": {
+    "n": 27,
+    "top1": 0.5185185185185185,
+    "any_hit": 0.5185185185185185,
+    "avg_returned": 1.2222222222222223,
+    "top1_ci95": [
+      0.34,
+      0.693
+    ]
+  },
+  "per_type": {
+    "count": {
+      "n": 4,
+      "top1": 0.5,
+      "any_hit": 0.5,
+      "avg_returned": 1.5,
+      "top1_ci95": [
+        0.15,
+        0.85
+      ]
+    },
+    "retrieve": {
+      "n": 18,
+      "top1": 0.5555555555555556,
+      "any_hit": 0.5555555555555556,
+      "avg_returned": 1.1111111111111112,
+      "top1_ci95": [
+        0.337,
+        0.754
+      ]
+    },
+    "relation": {
+      "n": 2,
+      "top1": 0.5,
+      "any_hit": 0.5,
+      "avg_returned": 1.0,
+      "top1_ci95": [
+        0.095,
+        0.905
+      ]
+    },
+    "superlative": {
+      "n": 2,
+      "top1": 0.5,
+      "any_hit": 0.5,
+      "avg_returned": 1.0,
+      "top1_ci95": [
+        0.095,
+        0.905
+      ]
+    },
+    "between": {
+      "n": 1,
+      "top1": 0.0,
+      "any_hit": 0.0,
+      "avg_returned": 3.0,
+      "top1_ci95": [
+        0.0,
+        0.793
+      ]
+    }
+  },
+  "per_tag": {
+    "in_vocab": {
+      "n": 27,
+      "top1": 0.5185185185185185,
+      "any_hit": 0.5185185185185185,
+      "avg_returned": 1.2222222222222223,
+      "top1_ci95": [
+        0.34,
+        0.693
+      ]
+    }
+  }
+}

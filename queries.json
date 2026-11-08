@@ -1,0 +1,245 @@
+[
+  {
+    "image": "samples/room1.jpg",
+    "query": "How many beds",
+    "click": [
+      420,
+      457
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room1.jpg",
+    "query": "where is curtain",
+    "click": [
+      527,
+      213
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room1.jpg",
+    "query": "frame to right of bed",
+    "click": [
+      945,
+      175
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room1.jpg",
+    "query": "how many side tables",
+    "click": [
+      721,
+      458
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room2.jpg",
+    "query": "how many plants to the left of tv",
+    "click": [
+      415,
+      174
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room2.jpg",
+    "query": "is there a TV in the room",
+    "click": [
+      512,
+      239
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room2.jpg",
+    "query": "where is the centre table",
+    "click": [
+      400,
+      314
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room2.jpg",
+    "query": "how many frames",
+    "click": [
+      134,
+      217
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "where is blue sofa",
+    "click": [
+      299,
+      351
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "where is yellow lamp",
+    "click": [
+      886,
+      136
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "where are curtains",
+    "click": [
+      103,
+      82
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "where are white pillows",
+    "click": [
+      244,
+      299
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "are there glasses on table",
+    "click": [
+      862,
+      336
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "is there a carpet",
+    "click": [
+      646,
+      488
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room4.jpg",
+    "query": "is there a plant",
+    "click": [
+      387,
+      560
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room4.jpg",
+    "query": "is there is a Marshall speaker",
+    "click": [
+      228,
+      511
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room4.jpg",
+    "query": "is there a dressing table",
+    "click": [
+      259,
+      619
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room4.jpg",
+    "query": "is there a mirror",
+    "click": [
+      289,
+      333
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room4.jpg",
+    "query": "is there a chair",
+    "click": [
+      137,
+      829
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room5.jpg",
+    "query": "is there a plant",
+    "click": [
+      871,
+      480
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room5.jpg",
+    "query": "is there a lamp",
+    "click": [
+      110,
+      574
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room5.jpg",
+    "query": "are there books",
+    "click": [
+      500,
+      458
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room5.jpg",
+    "query": "is there a showpiece",
+    "click": [
+      283,
+      456
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room5.jpg",
+    "query": "closest lamp",
+    "click": [
+      106,
+      576
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room1.jpg",
+    "query": "closest air conditioner",
+    "click": [
+      374,
+      159
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room3.jpg",
+    "query": "what is between sofa and tv",
+    "click": [
+      407,
+      314
+    ],
+    "tag": "in_vocab"
+  },
+  {
+    "image": "samples/room4.jpg",
+    "query": "something you can sit on",
+    "click": [
+      150,
+      836
+    ],
+    "tag": "in_vocab"
+  }
+]

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+runs/
+*.pt
+*.pth
+results/*.mp4
+roboflow_coco/
+roboflow_yolo/
+dataset_raw/

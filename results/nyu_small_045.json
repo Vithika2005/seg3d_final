@@ -1,0 +1,21 @@
+{
+  "mean_ms": {
+    "detect": 721.5206187475364,
+    "segment": 869.2551312426921,
+    "depth": 51.939771898123766,
+    "lift": 15.20943691976947,
+    "total": 1657.9249588081218
+  },
+  "images": 100,
+  "skipped_images": 0,
+  "device": "mps",
+  "depth_mode": "relative",
+  "box_th": 0.45,
+  "depth_AbsRel": 0.06686513188333106,
+  "depth_delta1": 0.9492741448692152,
+  "mask_mIoU": 0.27176264815022044,
+  "recall@0.5": 0.32238193018480493,
+  "precision@0.5": 0.4301369863013699,
+  "mean_3D_box_IoU_of_matched": 0.4019194925692923,
+  "num_gt_instances": 487
+}

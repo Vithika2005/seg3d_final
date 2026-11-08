@@ -1,0 +1,15 @@
+torch>=2.4
+torchvision
+transformers>=4.51,<5
+accelerate
+gradio>=4.44
+plotly
+numpy
+pillow
+h5py
+matplotlib
+tqdm
+psutil
+imageio
+imageio-ffmpeg
+simple_image_download

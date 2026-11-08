@@ -1,0 +1,7 @@
+[
+  {"image": "samples/room1.jpg", "query": "the chair to the left of the table", "click": [0, 0]},
+  {"image": "samples/room1.jpg", "query": "closest lamp", "click": [0, 0]},
+  {"image": "samples/room1.jpg", "query": "something you can sit on", "click": [0, 0]},
+  {"image": "samples/room2.jpg", "query": "what is on top of the table", "click": [0, 0]},
+  {"image": "samples/room2.jpg", "query": "the largest pillow", "click": [0, 0]}
+]
