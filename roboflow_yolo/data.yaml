@@ -1,0 +1,27 @@
+names:
+- object
+- Tv
+- air conditioner
+- book
+- cabinet
+- carpet
+- chair
+- curtain
+- door
+- floor
+- frame
+- lemon
+- microwave
+- person
+- plant
+- pot
+- switches
+- tree
+- vegetables
+- wall
+- window
+nc: 21
+path: /Users/vithikasurve/Desktop/seg3d_final/roboflow_yolo
+test: test/images
+train: train/images
+val: train/images
